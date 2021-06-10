@@ -1,0 +1,37 @@
+_repo: White-Magic-A-Novel_65432
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wenzell, A. B. (Albert Beck)
+    aliases:
+    - Wenzell, Albert B. (Albert Beck)
+    - Wenzel, A. B. (Albert Beck)
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '7859'
+    url: http://www.gutenberg.org/2009/agents/7859
+creator:
+  author:
+    agent_name: Phillips, David Graham
+    alias: Graham, John
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '235'
+    url: http://www.gutenberg.org/2009/agents/235
+    wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
+description: ''
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'American fiction'
+- GITenberg
+title: 'White Magic: A Novel'
+url: http://www.gutenberg.org/ebooks/65432
